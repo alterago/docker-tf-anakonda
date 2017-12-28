@@ -16,4 +16,5 @@ down:
 Jupiter url is  `http://localhost:8888`
 
 Notebooks will be is notebooks folder.
+Default password is 1q2w3e, you can change it in docker-composer.yml file
 
